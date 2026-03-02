@@ -1,8 +1,8 @@
 {
-  "name": "artist-brand-site",
+  "name": "XiXiGallery",
   "private": true,
   "version": "1.0.0",
-  "homepage": "https://XiXiGallery.github.io/artist-brand-site/",
+  "homepage": "https://XiXiGallery.github.io/XiXiGallery/",
   "type": "module",
   "scripts": {
     "dev": "vite",
